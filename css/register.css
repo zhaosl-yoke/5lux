@@ -1,0 +1,31 @@
+.head_box{width: 100%;height: 100px;}
+.head{width: 1210px;height: 100px;margin: 0 auto;position: relative;}
+.head .logo{width: 395px;height: 91px;float: left;padding: 9px 0 0 105px;}
+.logo a{display: block;float: left;width: 229px;height: 89px;margin-right:11px ;}
+.logo span{display: block;float: left;width: 70px;height: 100px;line-height: 100px;font-size: 17px;color:#a1929f;}
+.phone{position: absolute;right: 105px;top: 72px;width: 182px;height: 28px;line-height: 28px;}
+.phone img{display: inline-block;vertical-align: middle;margin-right: 6px;}
+.phone span{font-size: 15px;}
+.register_box{width: 100%;height: 659px;background:url(../img/zhuce-bg.jpg) no-repeat;}
+.register{width: 1210px;height: 659px;margin: 0 auto;}
+.register_left{float:left;width: 655px;height: 659px;background: url(../img/zhuce-icon.png) no-repeat;}
+.register_right{width: 326px;height: 590px;background: #fff;float: left;margin-top: 47px;padding:0 62px;}
+.register_right p{width: 326px;height: 35px;padding-top: 15px;border-bottom: solid 1px #ccc;margin-bottom: 32px;}
+.register_right p strong{display: block;width: 112px;height: 29px;text-align: center;line-height: 29px;color: #fff;background: #000;border-top-left-radius: 5px;border-top-right-radius: 5px;font-size: 12px;}
+.phoneNum{font-size: 12px;padding-left: 12px;}
+.register_right input{width: 210px;height: 32px;margin-bottom: 2px;}
+.register_right span{visibility:hidden;display:block;width: 212px;height: 22px;line-height:22px;border: solid 1px #ff9ba5;margin-left: 72px;background: #fee0e3;margin-bottom: 6px;}
+.codeNum{width: 326px;font-size: 12px;padding-left: 12px;position: relative;}
+.codeNum input{width: 140px;height: 32px;margin-bottom: 2px;}
+.codeNum i{position: absolute;display: block;width: 70px;height: 28px;line-height:28px;text-align:center;font-size:18px;right: 35px;top: 3px;border: solid 1px #ccc;}
+.paswNum {font-size: 12px;padding-left: 12px;}
+.repaswNum{font-size: 12px;padding-left: 12px;}
+.remember{height: 33px;line-height: 33px;font-size: 12px;padding-left: 60px;}
+.remember input{width: 12px;height: 12px;}
+.remember a:hover{color: #a78668;}
+.subbtn{width: 210px;height: 30px;background: #cf0101;margin: 16px 0 9px 82px;border: none;color: #fff;font-size: 15px;}
+.register_right h2{width: 326px;height: 65px;border-bottom: solid 1px #ccc;font-size: 12px;line-height: 65px;}
+.register_right h2 i{display: block;float:left;width: 240px;text-align: right;margin-right: 10px;}
+.register_right h2 a{display: block;float: left;text-decoration: underline;color: #a78668;}
+.prompt{width: 326px;height: 83px;text-align: center;line-height: 83px;font-size: 12px;}
+.prompt i{color: red;}
